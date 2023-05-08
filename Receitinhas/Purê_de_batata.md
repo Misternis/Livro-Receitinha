@@ -5,7 +5,7 @@
  &nbsp;
 ## Ingredientes (5 porções)
 
-<ol>
+<ul>
 <li> Batata
 <li> 1 kg de batata
 <li> Leite
@@ -15,7 +15,7 @@
 <li> Sal a gosto
 <li> Alho
 <li> 1 dente de alho espremido
-</ol>
+</ul>
 
  &nbsp;
 ## Modo de preparo
