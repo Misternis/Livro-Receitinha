@@ -6,14 +6,14 @@
 ## Ingredientes (5 porções)
 
 <ol>
-<li> batata
+<li> Batata
 <li> 1 kg de batata
-<li> leite
+<li> Leite
 <li> 1/2 xícara de leite
-<li> margarina
+<li> Margarina
 <li> 2 colheres (sopa) de margarina
-<li> sal a gosto
-<li> alho
+<li> Sal a gosto
+<li> Alho
 <li> 1 dente de alho espremido
 </ol>
 
